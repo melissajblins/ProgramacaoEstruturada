@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613128324 source:/home/mel/UFABC/2021.1/PE/Programas/Aula02Atv07/main.c
+	<stdio.h>
+	<stdlib.h>
+

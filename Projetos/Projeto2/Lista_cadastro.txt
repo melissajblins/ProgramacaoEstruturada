@@ -1,0 +1,13 @@
+ID; Nome; Email; CPF; Telefone; Idade; Comorbidade; Nome da vacina; Segunda dose (dias); Mes da primeira dose; Mes da segunda dose
+383;d
+;d;4;4;4;-
+;Janssen;0;0;0
+886;g
+;g;6;6;6;-
+;Astrazeneca;90;0;0
+383;s
+;s;3;3;3;-
+;Janssen;0;0;0
+383;q
+;q;2;2;2;-
+;Astrazeneca;90;0;0

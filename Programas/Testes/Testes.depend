@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620316227 source:/home/mel/UFABC/2021.1/PE/Programas/Testes/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+
